@@ -1,0 +1,45 @@
+* {
+     padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.uno {background-color: red;
+    height: 200px;
+}
+
+.dos {background-color: rgb(231, 81, 43);
+    height: 200px;
+}
+
+.tres {background-color: rgb(255, 130, 12);
+    height: 200px;
+}
+
+.cuatro {background-color: rgb(241, 180, 46);
+    height: 200px;
+}
+
+.cinco {background-color: rgb(255, 255, 0);
+    height: 200px;
+}
+
+.seis {background-color: rgb(217, 238, 27);
+    height: 200px;
+}
+
+.siete {background-color: rgb(31, 238, 12);
+    height: 200px;
+}
+
+.ocho {background-color: rgb(12, 255, 170);
+    height: 200px;
+}
+
+.nueve {background-color: rgb(12, 36, 255);
+    height: 200px;
+}
+
+.diez {background-color: rgb(110, 32, 253);
+    height: 200px;
+}
